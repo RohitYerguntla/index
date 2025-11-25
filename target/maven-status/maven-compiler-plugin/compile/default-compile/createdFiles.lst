@@ -1,0 +1,6 @@
+com\example\demo\model\Enquiry.class
+com\example\demo\IndexApplication.class
+com\example\demo\controller\MainController.class
+com\example\demo\model\Register.class
+com\example\demo\repository\RegisterRepository.class
+com\example\demo\repository\EnquiryRepository.class
